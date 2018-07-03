@@ -9,7 +9,7 @@
 
 Fork and clone this repository. Run the test suite to learn what is required of you. 
 
-You'll be defining a method, `prime?()`, that takes in an integer argument and returns a boolean of whether or not that integer is a prime number.
+You'll be defining a method, `prime?(int)`, that takes in an integer argument and returns a boolean of whether or not that integer is a prime number.
 
 A few things to think about:
 
